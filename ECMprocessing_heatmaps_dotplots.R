@@ -7,9 +7,6 @@ library(ggplot2)
 ###### READING IN DATA ###### 
 #*pre-processed data from AS's bioxriv paper
 
-#loading matrix
-#/local1/workdir/agh227/423-Vastus83M/filtered_feature_bc_matrix
-
 #immune<-readRDS("2021-01-22.human_baseline_immune_v3.RDS")
 parenchymal<-readRDS("2020-06-07.human_baseline_paren_v3.RDS")
 #endothelial<-readRDS("2021-01-22.human_baseline_endo_v3.RDS")
